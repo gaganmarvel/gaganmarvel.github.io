@@ -3,7 +3,7 @@ layout: post
 title: Welcome to my Empire.
 published: true
 ---
-![]({{site.baseurl}}/https://github.com/gaganmarvel/gaganmarvel.github.io/blob/master/images/download.jpg)
+![Luffy]({{site.baseurl}}/https://github.com/gaganmarvel/gaganmarvel.github.io/blob/master/images/download.jpg)
 
 ## Yo!
 ### What's up?
