@@ -14,4 +14,4 @@ published: true
 
 ### Contact me
 
-[email@gmail.com](mailto:gaganmarvel77@gmail.com)
+[gaganmarvel77@gmail.com](mailto:gaganmarvel77@gmail.com)
