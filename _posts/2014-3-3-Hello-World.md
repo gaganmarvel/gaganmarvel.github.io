@@ -3,6 +3,7 @@ layout: post
 title: Welcome to my Empire.
 published: true
 ---
+![]({{site.baseurl}}/https://avatars.githubusercontent.com/u/87856962?v=4)
 ## Yo!
 ### What's up?
 	
