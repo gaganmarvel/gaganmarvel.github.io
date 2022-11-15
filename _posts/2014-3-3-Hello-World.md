@@ -3,5 +3,7 @@ layout: post
 title: Welcome to my Empire.
 published: true
 ---
-This is my first blog.
-Created using jekyll.
+## Yo!
+### What's up?
+
+I recommend this [Anime website](zoro.to) for watching Naruto.
