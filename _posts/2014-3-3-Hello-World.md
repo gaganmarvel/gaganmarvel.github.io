@@ -5,4 +5,5 @@ published: true
 ---
 ## Yo!
 ### What's up?
-	I recommend this [Anime website](zoro.to) for watching Naruto.
+	
+I recommend this [Anime website](zoro.to) for watching Naruto. Contact me more for anime recommendation [LinkedIn](https://www.linkedin.com/in/gagan-v-28a5aa21b/)
